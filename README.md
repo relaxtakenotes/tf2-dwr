@@ -7,6 +7,6 @@ Yep, this is DWRV3 in VScript. Chance is that you can run it on any VScript comp
 
 It's more of a meme than a serious mod, because VScript is really limited. For example in this version explosion reverb is not present, because there's (seemingly) no way to detect explosions.
 
-You can run this on any map locally by running "script_execute dwr".
+Drop the dynamic_weapon_reverb folder into the custom directory. Now you can run this on any map by running "script_execute dwr".
 
 Since there's a buncha expensive calculations you'll have a console full of warnings such as this: "SCRIPT PERF WARNING --- 'CheckWeaponFire' ran long at 4.318995ms". Deal with it :tm:
